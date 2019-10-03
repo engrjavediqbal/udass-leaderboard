@@ -20,3 +20,8 @@
 | [All_Structure](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) |Adv| 91.7 | 53.5 | 77.1 | 2.5 | 0.2 | 27.1 | 6.2 | 7.6 | 78.4 | 81.2 | 55.8 | 19.2 | 82.3 | 30.3 | 17.1 | 34.3 | 41.5 | 48.7 |
 
 Where mean IoU* is over 13-classes (excluding wall, pole and fence).
+
+
+Feel free to contact  for adding your published results.
+
+Contact: javed.iqbal@itu.edu.pk
