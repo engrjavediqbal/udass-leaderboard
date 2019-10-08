@@ -39,7 +39,19 @@ Synthetic to real domain adaptation is a standard setup used in state-of-the-art
 
 Where mean IoU* is over 13-classes (excluding wall, pole and fence).
 
+An Implementation to our WACV-2020 paper "[MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling](https://arxiv.org/abs/1909.13776)" will be shortly available [here](https://github.com/engrjavediqbal/MLSL). 
 
-Feel free to contact  for adding your published results.
+### Citation:
+If you found this useful, please cite our [paper](https://arxiv.org/abs/1909.13776). 
+
+>@article{iqbal2019mlsl,
+>  title={MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling},
+>  author={Javed Iqbal and Mohsen Ali},
+>  journal={arXiv preprint arXiv:1909.13776},
+>  year={2019}
+>}
+
+### Contact:
+Feel free to contact  for adding your published results to leaderboard.
 
 Contact: javed.iqbal@itu.edu.pk
