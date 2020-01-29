@@ -14,8 +14,8 @@ Synthetic to real domain adaptation is a standard setup used in state-of-the-art
 | [DPR](https://arxiv.org/pdf/1901.05427.pdf) |ICCV-2019|Adv| 46.5 | 92.3 | 51.9 | 82.1 | 29.2 | 25.1 | 24.5 | 33.8 | 33.0 | 82.4 | 32.8 | 82.2 | 58.6 | 27.2 | 84.3 | 33.4 | 46.3 | 2.2 | 29.5 | 32.3 |
 | [MaxSquare](https://arxiv.org/abs/1909.13589) |ICCV-2019|Adv+ST| 46.4 | 89.4 |43.0 |82.1 |30.5 |21.3 |30.3 |34.7 |24.0 |85.3 |39.4 |78.2 |63.0 |22.9 |84.6 |36.4 |43.0 |5.5 |34.7 |33.5 |
 | [CBST](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) |ECCV-2018|ST| 46.2 | 88.0 | 56.2 | 77.0 | 27.4 | 22.4 | 40.7 | 47.3 | 40.9 | 82.4 | 21.6 | 60.3 | 50.2 | 20.4 | 83.8 | 35.0 | 51.0 | 15.2 | 20.6 | 37.0 |
-| [All_Structure](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) |CVPR-2019|Adv| 45.4 | 91.5 | 47.5 | 82.5 | 31.3 | 25.6 | 33.0 | 33.7 | 25.8 | 82.7 | 28.8 | 82.7 | 62.4 | 30.8 | 85.2 | 27.7 | 34.5 | 6.4 | 25.2 | 24.4 |
 | [ADVENT](https://arxiv.org/abs/1811.12833) |CVPR-2019|Adv+ST|  45.5| 89.4| 33.1| 81.0| 26.6| 26.8| 27.2| 33.5| 24.7| 83.9| 36.7| 78.8| 58.7| 30.5| 84.8| 38.5| 44.5| 1.7| 31.6| 32.4|
+| [All_Structure](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_All_About_Structure_Adapting_Structural_Information_Across_Domains_for_Boosting_CVPR_2019_paper.pdf) |CVPR-2019|Adv| 45.4 | 91.5 | 47.5 | 82.5 | 31.3 | 25.6 | 33.0 | 33.7 | 25.8 | 82.7 | 28.8 | 82.7 | 62.4 | 30.8 | 85.2 | 27.7 | 34.5 | 6.4 | 25.2 | 24.4 |
 | [CLAN](https://arxiv.org/abs/1809.09478) |CVPR-2019|Adv| 43.2 | 87.0 | 27.1 | 79.6 | 27.3 | 23.3 | 28.3 | 35.5 | 24.2 | 83.6 | 27.4 | 74.2 | 58.6 | 28.0 | 76.2 | 33.1 | 36.7 | 6.7 | 31.9 | 31.4 |
 | [Saleh etal](https://arxiv.org/abs/1807.06132) |ECCV-2018|Adv| 42.5 | 79.8 | 29.3 | 77.8 | 24.2 | 21.6 | 6.9 | 23.5 | 44.2 | 80.5 | 38.0 | 76.2 | 52.7 | 22.2 | 83.0 | 32.3 | 41.3 | 27.0 | 19.3 | 27.7 |
 | [AdaptNet](https://arxiv.org/abs/1802.10349) |CVPR-2018|Adv| 42.4 | 86.5 | 36.0 | 79.9 | 23.4 | 23.3 | 23.9 | 35.2 | 14.8 | 83.4 | 33.3 | 75.6 | 58.5 | 27.6 | 73.7 | 32.5 | 35.4 | 3.9 | 30.1 | 28.1 |
@@ -25,12 +25,12 @@ Synthetic to real domain adaptation is a standard setup used in state-of-the-art
 | Methods        | Venue/Year | Approach        | mean IoU | Road  | Sidewalk | Building | Wall | Fence | Pole | T.Light | T.Sign | Vegitation | Terrain | Sky | Person | Rider | Car | Truck | Bus | Train | Motorcycle | Bicycle |
 | -------------- | ----- |:---------------:| -------- | ----- | -------- | -------- | ---- | ----- | ---- | -------- | ------- | ---------- | ------- | --- | ------ | ----- | --- | ----- | --- | ----- | ---------- | ------- |
 | [MLSL (Ours)](https://arxiv.org/abs/1909.13776) |WACV-2020|ST| 49.0 | 89.0 | 45.2 | 78.2 | 22.9 | 27.3 | 37.4 | 46.1 | 43.8 | 82.9 | 18.6 | 61.2 | 60.4 | 26.7 | 85.4 | 35.9 | 44.9 | 36.4 | 37.2 | 49.3 |
+| [Saleh etal](https://arxiv.org/abs/1807.06132) |ECCV-2018|Adv| 42.5 | 79.8 | 29.3 | 77.8 | 24.2 | 21.6 | 6.9 | 23.5 | 44.2 | 80.5 | 38.0 | 76.2 | 52.7 | 22.2 | 83.0 | 32.3 | 41.3 | 27.0 | 19.3 | 27.7 |
 | [BDL](https://arxiv.org/abs/1904.10620) |CVPR-2019|Adv+ST| 41.3| 89.2| 40.9| 81.2| 29.1| 19.2| 14.2| 29.0| 19.6| 83.7| 35.9| 80.7| 54.7| 23.3| 82.7| 25.8| 28.0| 2.3| 25.7| 19.9|
 | [DPR](https://arxiv.org/pdf/1901.05427.pdf) |ICCV-2019|Adv| 37.5| 87.3| 35.7| 79.5| 32.0| 14.5| 21.5| 24.8| 13.7| 80.4| 32.0| 70.5| 50.5| 16.9| 81.0| 20.8| 28.1| 4.1| 15.5| 4.1|
 | [CBST](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) |ECCV-2018|ST| 36.1 | 90.4 |50.8 |72.0 |18.3 |9.5 |27.2 |28.6 |14.1 |82.4 |25.1 |70.8 |42.6 |14.5 |76.9 |5.9 |12.5 |1.2 |14.0 |28.6|
 | [ADVENT](https://arxiv.org/abs/1811.12833) |CVPR-2019|Adv| 36.1| 86.9| 28.7| 78.7| 28.5| 25.2| 17.1| 20.3| 10.9| 80.0| 26.4| 70.2| 47.1| 8.4| 81.5| 26.0| 17.2| 18.9| 11.7| 1.6|
 | [CLAN](https://arxiv.org/abs/1809.09478) |CVPR-2019|Adv|36.6| 88.0| 30.6| 79.2| 23.4| 20.5| 26.1| 23.0| 14.8| 81.6| 34.5| 72.0| 45.8| 7.9| 80.5| 26.6| 29.9| 0.0| 10.7| 0.0| 
-| [Saleh etal](https://arxiv.org/abs/1807.06132) |ECCV-2018|Adv| 42.5 | 79.8 | 29.3 | 77.8 | 24.2 | 21.6 | 6.9 | 23.5 | 44.2 | 80.5 | 38.0 | 76.2 | 52.7 | 22.2 | 83.0 | 32.3 | 41.3 | 27.0 | 19.3 | 27.7 |
 | [AdaptNet](https://arxiv.org/abs/1802.10349) |CVPR-2018|Adv(sigle level)|35.0| 87.3| 29.8| 78.6| 21.1| 18.2| 22.5| 21.5| 11.0| 79.7| 29.6| 71.3| 46.8| 6.5| 80.1| 23.0| 26.9| 0.0| 10.6| 0.3| 
 
 
