@@ -36,9 +36,9 @@ Synthetic to real domain adaptation is a standard setup used in state-of-the-art
 |[SSf-DAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.pdf)| ICCV-2019| Adv+ST| 37.7|88.7| 32.1| 79.5| |29.9| 22.0| 23.8| 21.7| 10.7| 80.8| 29.8| 72.5| 49.5| 16.1| 82.1| 23.2| 18.1| 3.5| 24.4| 8.1|
 | [DPR](https://arxiv.org/pdf/1901.05427.pdf) |ICCV-2019|Adv| 37.5| 87.3| 35.7| 79.5| 32.0| 14.5| 21.5| 24.8| 13.7| 80.4| 32.0| 70.5| 50.5| 16.9| 81.0| 20.8| 28.1| 4.1| 15.5| 4.1|
 |[PyCDA](https://arxiv.org/pdf/1908.09547.pdf) |ICCV-2019|ST | 37.2| 86.7| 24.8| 80.9| 21.4| 27.3| 30.2| 26.6| 21.1| 86.6| 28.9| 58.8| 53.2| 17.9| 80.4| 18.8| 22.4| 4.1| 9.7| 6.2|
+| [CLAN](https://arxiv.org/abs/1809.09478) |CVPR-2019|Adv|36.6| 88.0| 30.6| 79.2| 23.4| 20.5| 26.1| 23.0| 14.8| 81.6| 34.5| 72.0| 45.8| 7.9| 80.5| 26.6| 29.9| 0.0| 10.7| 0.0| 
 | [CBST](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf) |ECCV-2018|ST| 36.1 | 90.4 |50.8 |72.0 |18.3 |9.5 |27.2 |28.6 |14.1 |82.4 |25.1 |70.8 |42.6 |14.5 |76.9 |5.9 |12.5 |1.2 |14.0 |28.6|
 | [ADVENT](https://arxiv.org/abs/1811.12833) |CVPR-2019|Adv| 36.1| 86.9| 28.7| 78.7| 28.5| 25.2| 17.1| 20.3| 10.9| 80.0| 26.4| 70.2| 47.1| 8.4| 81.5| 26.0| 17.2| 18.9| 11.7| 1.6|
-| [CLAN](https://arxiv.org/abs/1809.09478) |CVPR-2019|Adv|36.6| 88.0| 30.6| 79.2| 23.4| 20.5| 26.1| 23.0| 14.8| 81.6| 34.5| 72.0| 45.8| 7.9| 80.5| 26.6| 29.9| 0.0| 10.7| 0.0| 
 | [AdaptNet](https://arxiv.org/abs/1802.10349) |CVPR-2018|Adv(sigle level)|35.0| 87.3| 29.8| 78.6| 21.1| 18.2| 22.5| 21.5| 11.0| 79.7| 29.6| 71.3| 46.8| 6.5| 80.1| 23.0| 26.9| 0.0| 10.6| 0.3| 
 |[SIBAN](https://arxiv.org/pdf/1904.00876.pdf)|ICCV-2019 |Adv |34.2| 83.4| 13.0| 77.8| 20.4| 17.5| 24.6| 22.8| 9.6| 81.3| 29.6| 77.3| 42.7| 10.9| 76.0| 22.8| 17.9| 5.7| 14.2| 2.0|
 
